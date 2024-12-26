@@ -18,3 +18,11 @@ How It Works:
 
 Create a Baseline: Run the program, select the option to create a baseline, and provide the directory to monitor. The tool generates a JSON file containing hash values for all files in the directory.
 Check Integrity: Run the program again, select the integrity check option, and provide the baseline file. The tool compares current file states with the baseline to identify changes.
+
+#OUTPUT OF THE TASK 
+
+![WhatsApp Image 2024-12-26 at 20 18 00_ab7b0900](https://github.com/user-attachments/assets/1733e50a-03fd-4f17-8629-f626b3b3a7cd)
+
+![WhatsApp Image 2024-12-26 at 20 18 00_4257737d](https://github.com/user-attachments/assets/8d2ad580-b390-4eb1-963f-ba8293bfee36)
+
+![WhatsApp Image 2024-12-26 at 20 18 00_cec65b75](https://github.com/user-attachments/assets/46347c88-2dfd-4a1b-a154-7af2d8d658f7)
